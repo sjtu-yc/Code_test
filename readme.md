@@ -1,5 +1,9 @@
 # Code of IDFree-PER
+
+This is the source code of the KDD 2025 paper "Personalized Language Model Learning on Text Data Without User Identifiers".
+
 **Project Structure**
+
 - classification/ *(Code on classification dataset)*
   - data/ *(Dataset and pre-process scripts)*
   - model/
